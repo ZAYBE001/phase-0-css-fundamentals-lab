@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+nav a {
+  margin-right: 20px;
+  display: inline-block;
+  padding: 60px;
+}
+section p {
+  text-align: center;
+  margin-top: 50px;
+}
+section img {
+  display: block;
+  margin: 0 auto;
+}
+section figcaption {
+  text-align: center;
+  margin-top: 20px;
+}
+section h3 {
+  align-content: baseline;
+  margin-top: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+div {
+  float :left;
+  display: inline-block;
+  width: 25%;
+  justify-content: space-between;
+  background-color: rgb(6, 63, 252);
+}
+
+
